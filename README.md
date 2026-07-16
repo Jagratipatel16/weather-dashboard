@@ -1,10 +1,4 @@
 
-## 🚀 Live Demo
-
-Check the live project here:
-
-https://jagratipatel16.github.io/weather-dashboard/
-
 # 🌦️ Weather Dashboard
 
 A modern and responsive **Weather Dashboard** built using **HTML, CSS, and JavaScript**. The application fetches real-time weather data from **WeatherAPI** and displays current weather conditions, air quality status, sunrise & sunset timings, and a 3-day weather forecast.
